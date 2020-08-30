@@ -1,5 +1,5 @@
 # hello-world
 
-hell world,
+hello world,
 
-This is my first git progject hoping to go a long way wish me luck.
+This is my first git project hoping to go a long way wish me luck.
